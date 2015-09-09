@@ -1,0 +1,31 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"detect_indentation": false,
+	"draw_minimap_border": true,
+	"drπaw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"find_selected_text": true,
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": -1,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		120
+	],
+	"shift_tab_unindent": true,
+	"tab_size": 2,
+	"theme": "Soda Light 3.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+	"word_wrap": true,
+	"wrap_width": 120
+}
