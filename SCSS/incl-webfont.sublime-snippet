@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+/* Webfont: ${1:PFDinTextPro-Regular} */
+@font-face {
+  font-family: '${2:PFDinTextPro}';
+  src: url('../fonts/${1:PFDinTextPro-Regular}.eot?#iefix') format('eot'); /* IE6-IE8 */
+  src: url('../fonts/${1:PFDinTextPro-Regular}.eot?#iefix'), /* IE9 Compat Modes */
+  url('../fonts/${1:PFDinTextPro-Regular}.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/${1:PFDinTextPro-Regular}.svg#${1:PFDinTextPro-Regular}') format('svg'); /* Legacy iOS */
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>webfont</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

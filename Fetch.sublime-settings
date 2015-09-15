@@ -1,0 +1,13 @@
+{
+	"files":
+	{
+		"cycleSlider": "http://malsup.github.io/min/jquery.cycle2.min.js",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"modernizr-dev": "https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"
+	},
+	"packages":
+	{
+		"flexslide": "https://github.com/woothemes/FlexSlider/zipball/master",
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}

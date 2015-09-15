@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Emmet",
+		"Gist",
+		"Material Theme",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PlainTasks",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-contrib-scss-lint",
+		"Terminal",
+		"Theme - Soda",
+		"Theme - Sodarized",
+		"TypoScript"
+	]
+}
