@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -11,6 +12,7 @@
 		"Emmet",
 		"Gist",
 		"Material Theme",
+		"Material Theme - White Panels",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PlainTasks",
